@@ -1,4 +1,3 @@
-//this is the normal way to begin scripts in unity not sure if this is true for all C# scripts
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
